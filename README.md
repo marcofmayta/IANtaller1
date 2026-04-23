@@ -1,7 +1,7 @@
 # Taller 1 IAN Gihub
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)]()
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 <div align="center">
 
